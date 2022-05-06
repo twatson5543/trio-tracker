@@ -12,3 +12,8 @@ url_07 = "https://sabertrio.com/pages/vektra"
 url_08 = "https://sabertrio.com/pages/senza"
 url_09 = "https://sabertrio.com/pages/sologaard"
 url_10 = "https://sabertrio.com/pages/krosgaard"
+
+
+# == Ignore (notes for myself later) ==
+# ui-theme One-Dark
+# syntax-theme Crispy Realization
